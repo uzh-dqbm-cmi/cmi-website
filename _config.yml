@@ -25,10 +25,12 @@ github_username:  CMI-UZH
 # Build settings
 markdown: kramdown
 # theme: minima
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.15.2"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-include-cache
 include:
   - images
 
