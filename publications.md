@@ -4,4 +4,4 @@ title: Publications
 permalink: /publications/
 ---
 
-TBD.
+Many fancy publications to appear here. 

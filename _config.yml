@@ -21,6 +21,20 @@ baseurl: "/cmi-website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  CMI-UZH
+repository: "CMI-UZH/cmi-website"
+
+author:
+  # name: "Hello!"
+  avatar: "/assets/images/uzh.jpg"
+  bio: "Biomedical informatics  and machine learning research in healthcare."
+  location: "Zurich"
+  links:
+    - label: "UZH Homepage"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.cmi.uzh.ch/en.html"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/CMI-UZH"
 
 # Build settings
 markdown: kramdown
@@ -40,6 +54,11 @@ include:
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 
+defaults:
+  - scope:
+      path: "" # empty string means all files
+    values:
+      author_profile: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
