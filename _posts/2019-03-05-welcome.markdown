@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Welcome to the Lab!"
 date:   2019-03-04 16:34:59 +0100
 categories: update

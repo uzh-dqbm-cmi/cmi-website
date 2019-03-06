@@ -24,11 +24,18 @@ github_username:  CMI-UZH
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 include:
   - images
+
+# pagination settings from MinimalMistakes
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
