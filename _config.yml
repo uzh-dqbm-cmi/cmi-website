@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Krauthammer Lab
+title: UZH Medical Informatics
+author: UZH CMI
 email: cmi.uzh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Homepage for the Krauthammer Lab.
@@ -23,24 +24,25 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  CMI-UZH
 repository: "CMI-UZH/cmi-website"
 
-author:
-  # name: "Hello!"
-  avatar: "/assets/images/uzh.jpg"
-  bio: "Biomedical informatics  and machine learning research in healthcare."
-  location: "Zurich"
-  links:
-    - label: "UZH Homepage"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.cmi.uzh.ch/en.html"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/CMI-UZH"
+#author:
+#  name: "Krauthhammer Lab"
+#  avatar: "/assets/images/uzh.jpg"
+#  bio: "Biomedical informatics  and machine learning research in healthcare."
+#  location: "Zurich"
+#  links:
+#    - label: "UZH Homepage"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://www.cmi.uzh.ch/en.html"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/CMI-UZH"
 
 # Build settings
 markdown: kramdown
 # theme: minima
 # theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.15.2"
+theme: jekyll-theme-clean-blog
+#remote_theme: "mmistakes/minimal-mistakes@4.15.2"
 
 plugins:
   - jekyll-feed

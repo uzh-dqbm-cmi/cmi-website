@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: News
+permalink: /news/
 background: '/assets/images/uzh.jpg'
 ---
 
-Science!
+News news news!

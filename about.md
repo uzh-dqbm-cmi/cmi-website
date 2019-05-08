@@ -1,7 +1,8 @@
 ---
-layout: single
+layout: page
 title: About
 permalink: /about/
+background: '/assets/images/uzh.jpg'
 ---
 
 ![UZH](https://www.isc.uzh.ch/dam/jcr:806afaca-b518-4289-9e9d-af25dea2ed0b/Hauptgebaeude_0125_klein_%C2%A9Frank_Bruederli.jpg)
