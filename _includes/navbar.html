@@ -8,21 +8,9 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/team" | relative_url }}">Team</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/research" | relative_url }}">Research</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/news" | relative_url }}">News</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/opportunities" | relative_url }}">Opportunities</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/contact" | relative_url }}">Contact</a>
-        </li>
+        {% for page in site.data.navigation.header %}
+          <li class="nav-item"><a class="nav-link" href="{{ page.url | relative_url }}">{{page.title}}</a></li>
+        {% endfor %}
       </ul>
     </div>
   </div>

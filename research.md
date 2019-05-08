@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-background: '/assets/images/uzh.jpg'
+background: '/assets/images/graph-network.jpg'
 ---
 
 Science!

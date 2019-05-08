@@ -1,0 +1,24 @@
+---
+layout: page
+---
+
+
+{{ content }}
+
+<h2>Our Team</h2>
+<hr>
+
+<div style="display:inline;text-align:left; float: left;">
+    {% for member in site.data.members %}
+        <div style="align:left;display:inline;text-align:left">
+            <div style="float: left;display:inline;text-align:left">
+                <img src={{member.photo}} width="100" height="150" border="5">
+            </div>
+            <h3>{{member.name}}</h3>
+            <i>{{member.role}}</i>
+            <br><br>
+            {{member.description}}
+        </div>
+        <hr>
+    {% endfor %}
+</div>
