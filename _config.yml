@@ -35,7 +35,7 @@ repository: "CMI-UZH/cmi-website"
 #      url: "https://www.cmi.uzh.ch/en.html"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/CMI-UZH"
+#      url: "https://github.com/uzh-dqbm-cmi"
 
 # Build settings
 markdown: kramdown
