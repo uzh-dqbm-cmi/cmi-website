@@ -41,7 +41,8 @@ repository: "CMI-UZH/cmi-website"
 markdown: kramdown
 # theme: minima
 # theme: minimal-mistakes-jekyll
-theme: jekyll-theme-clean-blog
+#theme: jekyll-theme-clean-blog
+remote_theme: "BlackrockDigital/startbootstrap-clean-blog-jekyll"
 #remote_theme: "mmistakes/minimal-mistakes@4.15.2"
 
 plugins:
