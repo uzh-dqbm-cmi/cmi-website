@@ -21,7 +21,7 @@
 - name: 'Laura'
   role: 'Scientific Software Developer'
   photo: '/cmi-website/assets/images/science_cat.jpg'
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  description: "I am interested in applying data science to improve healthcare. Previously, I worked as a Data Scientist at a healthcare IT company, and I have a masters in Computer Science from Rensselaer Polytechnic Institute (RPI). Other interests include ecology, hiking, and the SBB train network."
 
 - name: 'Zsolt'
   role: 'Postdoc'
