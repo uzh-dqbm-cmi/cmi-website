@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-background: '/assets/images/background-book.jpg'
+background: '/assets/images/bookcase.jpg'
 
 ---
 
