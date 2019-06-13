@@ -27,3 +27,8 @@
   role: 'Postdoc'
   photo: '/cmi-website/assets/images/science_cat.jpg'
   description: "I use bioinformatics in Oncogenomics. I did my PhD in Molecular biology at the University of Szeged, where I mostly worked with virus transcriptomics (mainly herpesviruses) with a focus of implementing methods for the analysis of long-read RNA-Seq. Other interests: archeogenetics, linguistics and hiking."
+
+- name: 'Nicolas'
+  role: 'Postdoc'
+  photo: '/cmi-website/assets/images/science_cat.jpg'
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
