@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Medical Informatics
 baseurl: "/cmi-website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+twitter_username: CMI_UZH
 github_username:  uzh-dqbm-cmi
 repository: "CMI-UZH/cmi-website"
 
@@ -52,7 +52,7 @@ include:
 
 # pagination settings from MinimalMistakes
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /posts/page:num/
 
 defaults:
   - scope:
