@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title_small: krauthammerlab
-title:  Something
+title:  Medical Informatics
 author: krauthammerlab
 email: cmi.uzh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Medical Informatics UZH+USZ
+UZH+USZ
 baseurl: "/cmi-website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CMI_UZH
