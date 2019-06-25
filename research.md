@@ -22,7 +22,6 @@ which evaluates articles on attributes such as "are the treatment risks describe
 [View the code on GitHub](https://github.com/uzh-dqbm-cmi/auto-discern)
 
 ***
-[](http://i.stack.imgur.com/vwxyz.png)
 [![30 days all-cause readmission](../assets/images/ECCB18_poster_v2.png){:class="img-responsive" height="300px" width="200px"}](../assets/docs/ECCB18_poster_v2.pdf)
 ### 30 days all-cause readmission
 

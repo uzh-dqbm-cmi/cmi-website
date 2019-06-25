@@ -5,8 +5,8 @@ permalink: /contact/
 background: '/assets/images/uzh.jpg'
 ---
 
-### Michael Krauthammer <br>
-*MD PhD Professor for Medical Informatics, PI*
+### Michael Krauthammer, MD PhD<br>
+*Chair of Medical Informatics*
 
 Department of Quantitative Biomedicine <br>
 Schmelzbergstrasse 26 <br>

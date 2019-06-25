@@ -7,7 +7,7 @@
     if(randomChoice == 0){
       $.ajax({
         type: 'GET',
-        url: CORS_PROXY + 'https://xkcd.com/atom.xml',
+        url: CORS_PROXY + comicSites[randomChoice],
         crossDomain: true,
         dataType: 'xml',
         success: parseXKCD
@@ -15,7 +15,7 @@
 
     }else{
       let parser = new RSSParser();
-      parser.parseURL(CORS_PROXY + 'https://phdcomics.com/gradfeed.php', function(err, feed) {
+      parser.parseURL(CORS_PROXY + comicSites[randomChoice], function(err, feed) {
         // console.log(feed.title);
         // console.log(feed.items);
         // console.log(feed.items.length);

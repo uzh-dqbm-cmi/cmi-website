@@ -1,7 +1,7 @@
 - name: 'Michael'
   role: 'PI'
   photo: '/cmi-website/assets/images/michael.jpg'
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  description: "After receiving my M.D. degree at the University of Zurich, I obtained a Ph.D. in biomedical informatics at Columbia University in New York. I then joined the Yale University School of Medicine where I led a research team in biomedical informatics and worked on fundamental aspects of cancer genetics. In 2018, I moved back to Zurich to establish a group in Medical Informatics. In my spare time, I like to read and work on various DIY projects."
 
 - name: 'Ahmed'
   role: 'Researcher'
@@ -11,7 +11,7 @@
 - name: 'Matthias'
   role: 'PhD Student'
   photo: '/cmi-website/assets/images/matthias.jpg'
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  description: "I received an M.Sc. in Electrical Engineering from ETH Zürich and worked in the USA and Germany prior to joining the lab. During that time, I co-invented multiple patents. My research interests include by are not limited to data science, statistical relational artificial intelligence, causal inference and algorithms. My aim is to apply related methods to medical data in order to extract and discover knowledge as well as using this for general purpose inference and reasoning."
 
 - name: 'Kyriakos'
   role: 'PhD Student'
