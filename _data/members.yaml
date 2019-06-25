@@ -1,7 +1,7 @@
 - name: 'Michael'
   role: 'PI'
   photo: '/cmi-website/assets/images/michael.jpg'
-  description: "After receiving my M.D. degree at the University of Zurich and board certification as general practitioner, I obtained a Ph.D. in biomedical informatics at Columbia University in New York. At Columbia, I worked on a pioneering text mining system called “GeneWays” that used Big Data analytics for predicting novel disease candidate genes. I then joined Yale School of Medicine (Pathology) where I lead a research team in biomedical informatics. Among other accomplishments, our work at Yale was instrumental in establishing the molecular classification of melanoma.  In 2018, I moved back to Zurich to establish a group in Medical Informatics. In my spare time I like to read and work on various DIY projects"
+  description: "After receiving my M.D. degree at the University of Zurich, I obtained a Ph.D. in biomedical informatics at Columbia University in New York. There, I worked on a pioneering text mining system called “GeneWays” under the supervision of Drs. Andrey Rzhetsky and Carol Friedman. I then joined the Yale University School of Medicine (Pathology) where I led a research team in biomedical informatics. Among other accomplishments, our work at Yale was instrumental in establishing the molecular classification of melanoma.  In 2018, I moved back to Zurich to establish a group in Medical Informatics. In my spare time I like to read and work on various DIY projects"
 
 - name: 'Ahmed'
   role: 'Researcher'
