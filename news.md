@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: news
 title: News
 permalink: /news/
 background: '/assets/images/uzh_usz_eth.png'
