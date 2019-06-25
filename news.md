@@ -13,5 +13,5 @@ background: '/assets/images/uzh_usz_eth.png'
 <script src="../assets/js/comic_loader.js"></script>
 
 <div id="comics_area">
-<h3>Today's comic</h3>
+<h3>Today's comics</h3>
 </div>
