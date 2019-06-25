@@ -52,7 +52,7 @@ on richer clinical datasets.
 
 [ECCB 2018 poster](http://eccb18.org/) can be downloaded [here](../assets/docs/ECCB18_poster_v2.pdf)
 
-[Paper got accepted in Scientific Reports - Nature](www.nature.com/articles/s41598-019-45685-z)
+[Paper got accepted in Scientific Reports - Nature](https://www.nature.com/articles/s41598-019-45685-z)
 
 [View the source code](https://bitbucket.org/A_2/hcup_research)
 
