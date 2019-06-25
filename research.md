@@ -22,11 +22,18 @@ which evaluates articles on attributes such as "are the treatment risks describe
 [View the code on GitHub](https://github.com/uzh-dqbm-cmi/auto-discern)
 
 ***
+[![30 days all-cause readmission](../assets/images/ECCB18_poster_v2.png){:class="img-responsive" height="300px" width="200px"}](../assets/docs/ECCB18_poster_v2.pdf)
+### 30 days all-cause readmission
 
-![Beakers](https://cdn.pixabay.com/photo/2017/11/16/09/27/science-2953855_1280.png){:class="img-responsive" height="100px"}
-### Another Project
+**Abstract**
+Heart failure (HF) is one of the leading causes of hospital admissions in the US. Readmission within 30 days after a HF hospitalization is both a recognized indicator for disease progression and a source of considerable financial burden to the healthcare system. Consequently, the identification of patients at risk for readmission is a key step in improving disease management and patient outcome. In this work, we used a large administrative claims dataset to (1) explore the systematic application of neural network-based models versus logistic regression for predicting 30 days all-cause readmission after discharge from a HF admission, and (2) to examine the additive value of patients’ hospitalization timelines on prediction performance.
 
-Someone please talk about their project here. 
+[**Presentation**](https://prezi.com/dayewmtvycb4/?token=6ae94b195bb9adbe6387d21730912aeddf49776991d25e1fb034d77c94b74a9d&utm_campaign=share&utm_medium=copy&rc=ex0share)
+<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" width="550" height="400" src="https://prezi.com/embed/dayewmtvycb4/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI0cm5nRHhxUVdQNGNjc2pxeS9DUFAraVJnPT0&amp;landing_sign=H0HRqyX3lBJzXmWAcyH5tEAwQtN4GCmozGRej1XqwLU"></iframe>
 
-[View the code on GitHub](https://github.com/uzh-dqbm-cmi)
+[ECCB 2018 poster](http://eccb18.org/) can be downloaded [here](../assets/docs/ECCB18_poster_v2.pdf)
+
+[Paper got accepted in Scientific Reports - Nature](https://www.nature.com/articles/s41598-019-45685-z)
+
+[View the source code](https://bitbucket.org/A_2/hcup_research)
 
