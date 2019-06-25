@@ -19,7 +19,7 @@ title_small: Medical Informatics
 author: cmi
 #email: cmi.uzh@gmail.com
 description: University of Zurich & University Hospital of Zurich
-description_small: UZH+USZ
+description_small: University of Zurich & University Hospital of Zurich
 #>- # this means to ignore newlines until "baseurl:"
 baseurl: "/cmi-website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
