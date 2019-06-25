@@ -6,7 +6,7 @@
 - name: 'Ahmed'
   role: 'Researcher'
   photo: '/cmi-website/assets/images/science_cat.jpg'
-  description: "Apparently, this member prefers to keep an air of mystery about them [ref:<a href='https://stackoverflow.com'>Stack Overflow</a>] 👻"
+  description: "Apparently, this member prefers to keep an air of mystery about them [<a href='https://stackoverflow.com'>Stack Overflow</a>] 👻"
   
 - name: 'Matthias'
   role: 'PhD Student'
