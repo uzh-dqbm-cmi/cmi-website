@@ -1,34 +1,34 @@
 - name: 'Michael'
   role: 'PI'
-  photo: '/cmi-website/assets/images/science_cat.jpg'
+  photo: '/cmi-website/assets/images/michael.jpg'
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 - name: 'Ahmed'
   role: 'Researcher'
-  photo: '/cmi-website/assets/images/science_cat.jpg'
+  photo: '/cmi-website/assets/images/ahmed.jpg'
   description: "Apparently, this member prefers to keep an air of mystery about them [ref:<a href='https://stackoverflow.com'>Stack Overflow</a>] 👻"
   
 - name: 'Matthias'
   role: 'PhD Student'
-  photo: '/cmi-website/assets/images/science_cat.jpg'
+  photo: '/cmi-website/assets/images/matthias.jpg'
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 - name: 'Kyriakos'
   role: 'PhD Student'
-  photo: '/cmi-website/assets/images/science_cat.jpg'
+  photo: '/cmi-website/assets/images/kyriakos.jpg'
   description: "I have a Computer Science and Bioinformatics background and completed my master thesis in the area of Cancer Genomics at the University of Bern. My ambition for developing clinically-useful knowledge led me to start my PhD in Biomedical Informatics. In my free time I am engaged in bouldering, jiu jitsu and deadlifts."
 
 - name: 'Laura'
   role: 'Scientific Software Developer'
-  photo: '/cmi-website/assets/images/science_cat.jpg'
+  photo: '/cmi-website/assets/images/laura.jpg'
   description: "I am interested in applying data science to improve healthcare. Previously, I worked as a Data Scientist at a healthcare IT company, and I have a masters in Computer Science from Rensselaer Polytechnic Institute (RPI). Other interests include ecology, hiking, and the SBB train network."
 
 - name: 'Zsolt'
   role: 'Postdoc'
-  photo: '/cmi-website/assets/images/science_cat.jpg'
+  photo: '/cmi-website/assets/images/zsolt.jpg'
   description: "I use bioinformatics in Oncogenomics. I did my PhD in Molecular biology at the University of Szeged, where I mostly worked with virus transcriptomics (mainly herpesviruses) with a focus of implementing methods for the analysis of long-read RNA-Seq. Other interests: archeogenetics, linguistics and hiking."
 
 - name: 'Nicolas'
   role: 'Postdoc'
-  photo: '/cmi-website/assets/images/science_cat.jpg'
+  photo: '/cmi-website/assets/images/nico.jpg'
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."

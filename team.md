@@ -2,7 +2,7 @@
 layout: members
 title: Our Team
 permalink: /team/
-background: '/assets/images/research-team.png'
+background: '/assets/images/our_team.jpg'
 ---
 
 
