@@ -1,7 +1,5 @@
 ---
-layout: news
-title: Medical Informatics
-description: UZH+USZ
+layout: home
 background: '/assets/images/uzh_usz_eth.png'
 ---
 
