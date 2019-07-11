@@ -18,6 +18,8 @@ layout: page
             <i>{{member.role}}</i>
             <br><br>
             {{member.description}}
+            <br><br>
+            <A HREF="#" onclick="u='{{member.emailprefix}}'; d='uzh.ch'; prompt('Copy address to clipboard',u+'@'+d); return false">Send email to {{member.name}}</A>
         </div>
         <hr>
     {% endfor %}
