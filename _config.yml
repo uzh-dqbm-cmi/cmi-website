@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 # title_small: MInU
-title: krauthammerlab 
-title_small: krauthammerlab
+title: KrauthammerLab 
+title_small: KrauthammerLab
 author: krauthammerlab
 #email: cmi.uzh@gmail.com
 description: University of Zurich & University Hospital Zurich
