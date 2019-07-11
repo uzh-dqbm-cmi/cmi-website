@@ -2,33 +2,40 @@
   role: 'PI'
   photo: '/cmi-website/assets/images/michael.jpg'
   description: "After receiving my M.D. degree at the University of Zurich, I obtained a Ph.D. in biomedical informatics at Columbia University in New York. I then joined the Yale University School of Medicine where I led a research team in biomedical informatics and worked on fundamental aspects of cancer genetics. In 2018, I moved back to Zurich to establish a group in Medical Informatics. In my spare time, I like to read and work on various DIY projects."
+  emailprefix: 'michael.krauthammer'
 
 - name: 'Ahmed'
   role: 'Researcher'
   photo: '/cmi-website/assets/images/ahmed.jpg'
   description: "Apparently, this member prefers to keep an air of mystery about them [ref:<a href='https://stackoverflow.com'>Stack Overflow</a>] 👻"
+  emailprefix: 'ahmed.allam'
   
 - name: 'Matthias'
   role: 'PhD Student'
   photo: '/cmi-website/assets/images/matthias.jpg'
   description: "I received an M.Sc. in Electrical Engineering from ETH Zürich and worked in the USA and Germany prior to joining the lab. During that time, I co-invented multiple patents. My research interests include by are not limited to data science, statistical relational artificial intelligence, causal inference and algorithms. My aim is to apply related methods to medical data in order to extract and discover knowledge as well as using this for general purpose inference and reasoning."
+  emailprefix: 'matthias.dittberner'
 
 - name: 'Kyriakos'
   role: 'PhD Student'
   photo: '/cmi-website/assets/images/kyriakos.jpg'
   description: "I have a Computer Science and Bioinformatics background and completed my master thesis in the area of Cancer Genomics at the University of Bern. My ambition for developing clinically-useful knowledge led me to start my PhD in Biomedical Informatics. In my free time I am engaged in bouldering, jiu jitsu and deadlifts."
+  emailprefix: 'kyriakos.schwarz'
 
 - name: 'Laura'
   role: 'Scientific Software Developer'
   photo: '/cmi-website/assets/images/laura.jpg'
   description: "I am interested in applying data science to improve healthcare. Previously, I worked as a Data Scientist at a healthcare IT company, and I have a masters in Computer Science from Rensselaer Polytechnic Institute (RPI). Other interests include ecology, hiking, and the SBB train network."
+  emailprefix: 'laura.kinkead'
 
 - name: 'Zsolt'
   role: 'Postdoc'
   photo: '/cmi-website/assets/images/zsolt.jpg'
   description: "I use bioinformatics in Oncogenomics. I did my PhD in Molecular biology at the University of Szeged, where I mostly worked with virus transcriptomics (mainly herpesviruses) with a focus of implementing methods for the analysis of long-read RNA-Seq. Other interests: archeogenetics, linguistics and hiking."
+  emailprefix: 'zsolt.balazs'
 
 - name: 'Nicolas'
   role: 'Postdoc'
   photo: '/cmi-website/assets/images/nico.jpg'
   description: "I am interested in using data science and image processing in translational medicine. I did my PhD in Chemical Engineering in Johns Hopkins University and my work was highly interdisciplinary, fabricating my own microfluidic devices, performing the bio experiments and writing algorithms myself. Other interests include hiking, dancing and playing ukulele."
+  emailprefix: 'nicolas.perezgonzalez'
