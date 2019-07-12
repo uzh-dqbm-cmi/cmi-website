@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-background: '/assets/images/uzh_usz_eth.png'
+background: '/assets/images/uzh_usz_eth.jpg'
 ---
 
 [Our Lab GitHub](https://github.com/uzh-dqbm-cmi)

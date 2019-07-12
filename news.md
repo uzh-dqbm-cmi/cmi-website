@@ -2,7 +2,7 @@
 layout: news
 title: News
 permalink: /news/
-background: '/assets/images/uzh_usz_eth.png'
+background: '/assets/images/uzh_usz_eth.jpg'
 ---
 
 <a class="twitter-timeline" href="https://twitter.com/krauthammerlab?ref_src=twsrc%5Etfw">Tweets by krauthammerlab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
