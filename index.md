@@ -1,6 +1,6 @@
 ---
 layout: home
-background: '/assets/images/uzh_usz_eth.png'
+background: '/assets/images/uzh_usz_eth.jpg'
 ---
 
 ## Welcome
