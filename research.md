@@ -35,5 +35,5 @@ Heart failure (HF) is one of the leading causes of hospital admissions in the US
 
 [Paper got accepted in Scientific Reports - Nature](https://www.nature.com/articles/s41598-019-45685-z)
 
-[View the source code](https://bitbucket.org/A_2/hcup_research)
+[View the source code](https://github.com/uzh-dqbm-cmi/hcup_research)
 
