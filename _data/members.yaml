@@ -39,3 +39,9 @@
   photo: '/assets/images/nico.jpg'
   description: "I am interested in using data science and image processing in translational medicine. I did my PhD in Chemical Engineering in Johns Hopkins University and my work was highly interdisciplinary, fabricating my own microfluidic devices, performing the bio experiments and writing algorithms myself. Other interests include hiking, dancing and playing ukulele."
   emailprefix: 'nicolas.perezgonzalez'
+  
+- name: 'Anna'
+  role: 'Postdoc'
+  photo: '/assets/images/anna.jpg'
+  description: "I am a bench microbiologist turned bioinformatician interested in the role of the microbiome in response to cancer immunotherapy. Previously, I have used a combination of functional genomics and microbial genetics to reveal common mechanisms that underlie clinical infections."
+  emailprefix: 'anna.sintsova'
