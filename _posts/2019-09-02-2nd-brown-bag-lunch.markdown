@@ -26,7 +26,7 @@ We are very happy to see this progression towards integrated data platforms
 enabling new research opportunities and better digital health care services!
 
 <img  class="img-fluid"
-      src="/cmi-website/assets/images/2019-09-02_2nd-brown-bag-lunch.jpg"
+      src="/assets/images/2019-09-02_2nd-brown-bag-lunch.jpg"
       alt="2nd Brown Bag Lunch">
 <span class="caption text-muted">Patrick Hirschi, Data Engineer, explaining the
 Data Warehouse being build at the UniSpital Z&uuml;rich (USZ).</span>
