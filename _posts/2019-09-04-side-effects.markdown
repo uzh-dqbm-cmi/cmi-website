@@ -12,7 +12,8 @@ Some side effects may be considered as "beneficial", as in situations where a dr
 
 <img  class="img-fluid"
       src="/assets/images/sideEffectsWordCloud.jpg"
-      alt="Side Effects">
+      alt="Side Effects"
+      style="margin: 0 auto;display: block;">
 
 Repurposing of existing drugs avoids the need for re-establishing a drug's safety profile and can therefore lead to rapid approval for new indications. Using clinical, molecular and drug information from large biomedical data sets, it has become possible to derive a data-driven list of a drugs side effects and to study their disease-modifying potential. 
 
