@@ -19,4 +19,3 @@ Repurposing of existing drugs avoids the need for re-establishing a drug's safet
 Patients, for which few drug options exist, may benefit by getting medical attention much faster than via a traditional drug development route. Additionally, this approach may help healthcare professionals to better judge the various phenotypic consequences of a drug's action. As we gain a better understanding of the molecular pathways that are involved (for example perturbed) when a drug is administered, we will increase our chances for the discovery of new potential drug targets.  
 
 Due to these exciting opportunities, in one of our projects, we seek to improve our understanding of a drug's disease modifying potential outside its main indication area.  Our methodology is based on data-driven identification of the drug's side effects from phenotypic, genotypic and molecular pathway data.
-
