@@ -13,8 +13,6 @@ We are an interdisciplinary team led by Prof. Michael Krauthammer working on cli
   data-tweet-limit="2"
   data-theme="light"
   data-link-color="#2B7BB9"
-  href="https://twitter.com/krauthammerlab?ref_src=twsrc%5Etfw"
-  >Tweets by krauthammerlab
-</a> 
+  href="https://twitter.com/krauthammerlab?ref_src=twsrc%5Etfw">Tweets by krauthammerlab</a> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <br>
