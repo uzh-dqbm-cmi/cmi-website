@@ -20,6 +20,6 @@ We gathered for breakfast at the prestigious Confiserie Sprüngli at Paradeplatz
 <img  class="img-fluid"
       src="/assets/images/city_tour_group.jpg"
       alt="City Tour Group Photo">
-<span class="caption text-muted">The route that we walked through, during our lab outing.</span>
+<span class="caption text-muted">The group picture we took at the end of our tour.</span>
 
 After the tour, we fled from the rain to the Restaurant Weisser Wind, where we had a lunch of traditional Swiss meals. We conversed about past travels and work experiences and the issue of environmentalism before heading back to lab.
