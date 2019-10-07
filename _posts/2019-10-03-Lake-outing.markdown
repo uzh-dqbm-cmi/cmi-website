@@ -17,7 +17,7 @@ Our day began at the head of the Limmat, where Zurich meets the lake, at Terrass
       alt="Lab Outing Brunch">
 <span class="caption text-muted">Brunch along the Limmat.</span>
 
-After brunch, we walked south along the Quaianlagen, the pedestrian promenade along the east bank of the lake. We meandered by the Opera House and arrived at the Zurich Horn, a small lake peninsula park. We played Frisbee in the park and toured the China Garden. And no summer afternoon would be complete without ice cream!
+After brunch, we walked south along the Quaianlagen, the pedestrian promenade along the east bank of the lake. We meandered by the Opera House and arrived at the Zurich Horn, a small lake peninsula park. We played frisbee and football/soccer in the park and toured the China Garden. And no summer afternoon would be complete without ice cream!
 
 From Zurich Horn we boarded one of Zurich's water taxis. These low canal boats are built to pass under Zurich's many bridges over the Limmat, and from our seats we were almost at water level as we skimmed to the other side of the lake.
 
