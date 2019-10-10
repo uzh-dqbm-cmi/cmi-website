@@ -14,7 +14,7 @@ Considering this context, we focused on the tasks performed by a radiologist. In
 <img  class="img-fluid"
       src="/assets/images/xrays.jpg"
       alt="x ray image">
-<span class="caption text-muted">x ray sample image [1].</span>
+<span class="caption text-muted"> x ray sample image [1].</span>
 
 In our project, we seek to build multimodal machine learning models that efficiently link radiological images and their associated reports to streamline the work of a radiologist. For this, we combine different approaches: On the one hand, we use pre-trained convolutional neural networks to extract visual features from the images and on the other hand, we use models from the Natural Language Processing domain to learn underlying structures within the medical reports. By combining both of these approaches we are able to mimic what a physician normally does when assessing radiological images, with the advantage that our model will more consistently make predictions and write reports.
 
