@@ -13,7 +13,7 @@ We aim at:
 <br>
 <a class="twitter-timeline"
   data-lang="en"
-  data-height="200"
+  data-height="400"
   data-tweet-limit="2"
   data-theme="light"
   data-link-color="#2B7BB9"
