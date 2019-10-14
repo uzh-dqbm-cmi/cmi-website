@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: "2nd Brown Bag Lunch"
-subtitle: ""
+author: "Kyriakos"
 date: 2019-09-02 15:00:00 +0100
 background: '/assets/images/uzh.jpg'
 ---

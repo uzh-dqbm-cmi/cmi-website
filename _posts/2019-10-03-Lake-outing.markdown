@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: post
 title: "Outing Around the Lake"
-subtitle: ""
+author: "Laura"
 date: 2019-10-03 16:00:00 +0100
 background: '/assets/images/lake_zurich.jpg'
 ---
-
-## Outing Around the Lake
 
 Whereas our first Lab outing toured the old city center, our second excursion explored Zurich's lake. 
 

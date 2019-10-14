@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: post
 title: "Single-cell RNA sequencing"
-subtitle: ""
+author: "Zsolt"
 date: 2019-09-27 16:00:00 +0100
 background: '/assets/images/uzh.jpg'
 ---
-
-## Single-cell RNA sequencing
 
 Our body is made up of trillions of cells belonging to thousands of different cell types, which are specialized to carry out various tasks to keep us alive. While we tend to think of our organs as units which are responsible for particular functions, they are not homogeneous at all. Instead, they are made up of many specialized cells which all contribute to the roles of the organ. For example, we often talk about brain cells, but in fact the brain is made up of many cell types. By brain cells we generally mean neurons, but there are numerous types of neurons each of them having unique characteristics. Each cell type behaves differently and certain diseases are the results of the malfunctioning of distinct cell types.
 
