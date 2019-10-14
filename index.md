@@ -1,9 +1,13 @@
 ---
 layout: home
 background: '/assets/images/uzh_usz_eth.jpg'
+mathjax: true
 ---
 
-## health = f(data)
+$$ health = f(data) $$
+
+
+
 We are an interdisciplinary team led by Prof. Michael Krauthammer working on clinical informatics, data science and translational bioinformatics. 
 We aim at:
 * deploying smart analytics for improving health care processes for patients, physicians and other professionals
