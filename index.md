@@ -10,9 +10,9 @@ $$ health = f(data) $$
 
 We are an interdisciplinary team led by Prof. Michael Krauthammer working on clinical informatics, data science and translational bioinformatics. 
 We aim at:
-* deploying smart analytics for improving health care processes for patients, physicians and other professionals
-* performing knowledge discovery from large biomedical data sets 
-* developing data-driven solution for disease prevention, diagnosis and management
+* Deploying smart analytics for improving health care processes for patients, physicians and other professionals.
+* Performing knowledge discovery from large biomedical data sets.
+* Developing data-driven solution for disease prevention, diagnosis and management.
 
 <br>
 <a class="twitter-timeline"
