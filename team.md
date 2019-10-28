@@ -2,7 +2,7 @@
 layout: members
 title: Our Team
 permalink: /team/
-background: '/assets/images/our_team.jpg'
+background: '/assets/images/team_at_irchel.jpg'
 ---
 
 
