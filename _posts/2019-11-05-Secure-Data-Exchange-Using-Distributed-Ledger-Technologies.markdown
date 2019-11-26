@@ -7,12 +7,12 @@ background: '/assets/images/uzh.jpg'
 ---
 
 Secure data exchange and integration is essential in medical informatics as it
-enables and accalerates evidence based medicine. Therefore we are very
-interested in related topics. Last October we invited Lucas Antelo as an exteral
+enables and accelerates evidence based medicine. Therefore we are very
+interested in related topics. Last October we invited Lucas Antelo as an external
 speaker. During his talk he presented the outcome of his bachelor thesis "Secure
 Data Exchange Using Distributed Ledger Technologies".
 
-Lucas studied medicine at University Hospital Zuich followed by a computer
+Lucas studied medicine at University Hospital Zurich followed by a computer
 science degree at Freie Universit&auml;t Berlin. 
 
 In the German healthcare sector, data are exchanged among patients, healthcare
