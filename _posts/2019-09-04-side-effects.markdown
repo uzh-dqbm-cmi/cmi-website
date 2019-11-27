@@ -1,22 +1,19 @@
 ---
 layout: page
-title: "Side Effects"
+title: "Drug-Drug Interactions"
 subtitle: ""
-date: 2019-09-04 15:00:00 +0100
-background: '/assets/images/uzh.jpg'
+author: "Kyriakos"
+date: 2019-11-27 15:00:00 +0100
+background: '/assets/images/Meds.jpg'
 ---
 
-When drugs are administered for treating a specific disease or symptom, there are often additional unintended effects due to the same drug, termed side effects, ranging from minor (rash) to more severe ones (bleeding). 
-
-Some side effects may be considered as "beneficial", as in situations where a drug ameliorates symptoms in a disease that is distinct from the drug's main indication. An example is the use of the anti-epileptic drug Topiramate, which causes weight loss, as an effective treatment of obesity.
+Drug-drug interactions (**DDIs**) refer to drugs' effect upon their concurrent administration. Under those conditions additional side effects may surface which would not manifest in case of individual drug administration. Consequently, DDIs are an important consideration for patient treatment where the aim is to maximize drug effectiveness while simultaneously minimizing unwanted side effects. Due to the combinatorial explosion of possible drug pairs, it is impossible to test them all and discover previously unobserved side effects. Therefore, computational methods and more recently **Deep Learning** based models are being employed for this task. 
 
 <img  class="img-fluid"
       src="/assets/images/sideEffectsWordCloud.jpg"
       alt="Side Effects"
       style="margin: 0 auto;display: block;">
 
-Repurposing of existing drugs avoids the need for re-establishing a drug's safety profile and can therefore lead to rapid approval for new indications. Using clinical, molecular and drug information from large biomedical data sets, it has become possible to derive a data-driven list of a drugs side effects and to study their disease-modifying potential. 
+For instance, Lee et al. [[1](https://doi.org/10.1186/s12859-019-3013-0)] used Autoencoders coupled with Feed Forward Neural Network that takes drug structure, target gene and Gene Ontology (GO) term data as input, in order to predict the DDI type (example type: "DRUG A may increase the hypoglycemic activities of DRUG B."). Similarly, Ryu et al. [[2](https://doi.org/10.1073/pnas.1803294115)] proposed DeepDDI, a multilabel classification model, which also takes drug structure data as input, along with drug names, in order to output DDIs as human-readable sentences.
 
-Patients, for which few drug options exist, may benefit by getting medical attention much faster than via a traditional drug development route. Additionally, this approach may help healthcare professionals to better judge the various phenotypic consequences of a drug's action. As we gain a better understanding of the molecular pathways that are involved (for example perturbed) when a drug is administered, we will increase our chances for the discovery of new potential drug targets.  
-
-Due to these exciting opportunities, in one of our projects, we seek to improve our understanding of a drug's disease modifying potential outside its main indication area.  Our methodology is based on data-driven identification of the drug's side effects from phenotypic, genotypic and molecular pathway data.
+Due to these exciting opportunities, in one of our projects, we seek to improve our understanding of drug-drug interactions by developing and applying novel and interpretable Deep Learning models.
